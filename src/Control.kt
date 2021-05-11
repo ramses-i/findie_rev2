@@ -6,7 +6,7 @@ import kotlin.collections.ArrayList
 import kotlin.collections.HashMap
 
 fun main() {
-    val filename = requestInput("Please introduce the file name with extension, e.g: chat_laura.txt: ")
+    val filename = requestInput("Please introduce the file name with extension, e.g: chat.txt: ")
     try {
         val file = File("input/$filename")
         var data = file.readLines()
