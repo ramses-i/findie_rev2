@@ -1,0 +1,3 @@
+29/6/19 23:04 - Los mensajes y llamadas en este chat ahora están protegidos con cifrado de extremo a extremo. Toca para más información.
+29/6/19 23:04 - User 1: Hola User 1
+29/6/19 23:06 - User 2: Hola User 2
